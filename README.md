@@ -16,8 +16,7 @@ NexusFlow is a digital forensics project designed to verify digital evidence int
 
 - Python
 - Django
-- MySQL
-- Apache HTTP Server
+- MySQL (via XAMPP)
 - HTML, CSS, JavaScript
 - SHA-256 Hashing
 
