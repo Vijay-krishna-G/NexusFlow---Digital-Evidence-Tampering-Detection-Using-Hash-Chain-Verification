@@ -1,0 +1,7 @@
+asgiref==3.9.1
+Django==3.2.7
+mysqlclient==2.2.7
+pillow==11.3.0
+pycurl==7.45.6
+pytz==2025.2
+sqlparse==0.5.3

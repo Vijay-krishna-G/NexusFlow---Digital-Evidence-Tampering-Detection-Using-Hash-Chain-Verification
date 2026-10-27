@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+backend/env/
+venv/
+.venv/
+
+# Uploaded evidence and local data
+backend/media/
+media/
+*.db
+*.sqlite3
+
+# Local configuration and secrets
+.env
+.env.*
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django-generated files
+backend/staticfiles/
